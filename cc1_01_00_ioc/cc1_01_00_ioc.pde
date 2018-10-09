@@ -4,6 +4,7 @@ void setup() {
   textSize(32);
 }
 
+// Are we humans ? 
 
 void draw() {
   background(0);
